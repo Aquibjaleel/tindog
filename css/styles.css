@@ -116,7 +116,7 @@ h2{
 
 
 }
- @media (max-width:853px){
+ @media (max-width:800px){
     #title{
         text-align: center;
         font-family: 'Montserrat', sans-serif;
